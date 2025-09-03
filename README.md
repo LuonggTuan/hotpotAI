@@ -1,4 +1,5 @@
-![Alt text](images\image.png)
+<img src="images/image.png" alt="Gradient Descent" width="400"/>
+
 # Essential Algorithms for AI
 
 This repository collects and explains core algorithms that serve as the backbone of **Artificial Intelligence (AI)**.  
